@@ -56,5 +56,6 @@ python telegram_alert.py
 ```
 >Sending Alert
 <img src="https://github.com/Shubhadeep394/remote-temperature-monitoring/blob/master/images/sending_alert.png" width="500" height="300">
+
 >Receiving Alert
 <img src="https://github.com/Shubhadeep394/remote-temperature-monitoring/blob/master/images/receiving_alert.jpeg" width="300" height="600">
