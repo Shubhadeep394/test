@@ -37,7 +37,7 @@ You can also use your **Raspberry Pi** as your VPS and access it using puTTY (fo
 
 #### Receiving Alerts
 Before running the code make sure you have installed python and the nescessary libraries for running the code in your VPS
-Update the packages on Ubuntu using the following command,
+Update the packages on Ubuntu Server using the following command,
 ```python
 sudo apt-get -y update
 ```
