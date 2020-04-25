@@ -25,7 +25,7 @@ To send alerts and messages via Telegram, you will require,
 The final circuit should look like the image below:
 ![alt text](https://github.com/Shubhadeep394/remote-temperature-monitoring/blob/master/images/circuit.JPG "Final Circuit Connection" width="100" height="200")
 
-<img src="https://github.com/Shubhadeep394/remote-temperature-monitoring/blob/master/images/circuit.JPG" width="100" height="200">
+<img src="https://github.com/Shubhadeep394/remote-temperature-monitoring/blob/master/images/circuit.JPG" width="500" height="200">
 
 Setup Telegram
 Steps to sign-up/sign-in to Telegram
