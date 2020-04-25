@@ -33,7 +33,7 @@ You can create a virtual private server in Two ways,
 You can also use your **Raspberry Pi** as your VPS and access it using puTTY (for Windows Users).
 
 #### Setup your Telegram
-To setup your telegram [click here]()
+To setup your Telegram [click here]()
 
 #### Receiving Alerts
 Before running the code make sure you have installed python and the nescessary libraries for running the code in your VPS
@@ -49,10 +49,9 @@ Install boltiot python library using the following command,
 ```python
 sudo pip3 install boltiot
 ```
-Now, type in the code and run the code in your server (don't forget to modify [conf.py](https://github.com/Shubhadeep394/remote-temperature-monitoring/blob/master/conf.py) according to your own Hardware and Software Configurations)
-Run the code using the following command,
+Now, type in the code and run the code in your server (don't forget to modify [conf.py](https://github.com/Shubhadeep394/remote-temperature-monitoring/blob/master/conf.py) according to your own Hardware and Software Configurations).
+>Run the code using the following command,
 ```python
 python telegram_alert.py
 ```
-
 
