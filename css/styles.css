@@ -2672,8 +2672,13 @@ fieldset:disabled a.btn {
 }
 .btn-facebook {
     color: #fff;
-    background-color: #3B5998;
-    border-color: #3B5998;
+    background-color: #3b5998;
+    border-color: #3b5998;
+}
+.btn-twitter {
+    color: #fff;
+    background-color: #00acee;
+    border-color: #00acee;
 }
 .btn-dark:hover {
   color: #fff;
