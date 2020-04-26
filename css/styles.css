@@ -2670,6 +2670,11 @@ fieldset:disabled a.btn {
   background-color: #343a40;
   border-color: #343a40;
 }
+.btn-facebook {
+    color: #fff;
+    background-color: #3b5998;
+    border-color: #3b5998;
+}
 .btn-dark:hover {
   color: #fff;
   background-color: #23272b;
