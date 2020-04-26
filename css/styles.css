@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 /*!
 * Start Bootstrap - Agency v6.0.0 (https://startbootstrap.com/template-overviews/agency)
 * Copyright 2013-2020 Start Bootstrap
@@ -2669,6 +2669,11 @@ fieldset:disabled a.btn {
   color: #fff;
   background-color: #343a40;
   border-color: #343a40;
+}
+.btn-facebook {
+    color: #fff;
+    background-color: #3B5998;
+    border-color: #3B5998;
 }
 .btn-dark:hover {
   color: #fff;
