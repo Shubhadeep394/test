@@ -2695,6 +2695,11 @@ fieldset:disabled a.btn {
     background-color: #fb3958;
     border-color: #fb3958;
 }
+.btn-discord {
+    color: #fff;
+    background-color: #7289d9;
+    border-color: #7289d9;
+}
 .btn-dark:hover {
     color: #fff;
     background-color: #23272b;
