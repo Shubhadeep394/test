@@ -1,4 +1,6 @@
-    (function ($) {
+/* Copyright Shubhadeep Mandal 2020
+*/
+(function ($) {
     "use strict"; // Start of use strict
 
     // Smooth scrolling using jQuery easing
