@@ -30,7 +30,7 @@ insert images here
 
 
 #### Contributers
-- [Shubhadeep Mandal] (https://github.com/shubhadeepmandal394)
-- [Sapnanil Das] (https://github.com/sapnanil7)
+- [Shubhadeep Mandal](https://github.com/shubhadeepmandal394)
+- [Sapnanil Das](https://github.com/sapnanil7)
 
 Loved the work ? [Support Me](https://paypal.me/shubhadeepmandal394?locale.x=en_GB) so that I can continue developing such useful technologies
