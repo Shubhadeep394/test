@@ -15,13 +15,22 @@ In this Technology, we the developers [Shubhadeep Mandal](https://github.com/shu
 
 Let's go step by step,
 
-- 1. The residents of the residential society are provided with a [Website](<give the link to the website here>) where they are to register themselves along with their Vehicle Details (if they own any).
-- 2. After registration the same will data will be uploaded to our database.
-- 3. The Security Personnel of the establishment will be provided with an Android Smartphone with our Android Application installed in it.
-- 4. Now, whenever any vehicle enters the establishment the security personnel scans the vehicle's number plate using the App and if the Vehicle belongs to any of the Redsidents it will show the message "VEHICLE REGISTERED" else it will show "VEHICLE NOT REGISTERED", and thus they can take actions accordingly.
+- The residents of the residential society are provided with a [Website](<give the link to the website here>) where they are to register themselves along with their Vehicle Details (if they own any).
+- After registration the same will data will be uploaded to our database.
+- The Security Personnel of the establishment will be provided with an Android Smartphone with our Android Application installed in it.
+- Now, whenever any vehicle enters the establishment the security personnel scans the vehicle's number plate using the App and if the Vehicle belongs to any of the Redsidents it will show the message "VEHICLE REGISTERED" else it will show "VEHICLE NOT REGISTERED", and thus they can take actions accordingly.
 
 #### Technology Stack
 
 insert images here
 
-#### 
+
+#### How to Start ?
+<a href="https://github.com/shubhadeepmandal394/vehicle-authentication/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-orange"></a>
+
+
+#### Contributers
+- [Shubhadeep Mandal] (https://github.com/shubhadeepmandal394)
+- [Sapnanil Das] (https://github.com/sapnanil7)
+
+Loved the work ? [Support Me](https://paypal.me/shubhadeepmandal394?locale.x=en_GB) so that I can continue developing such useful technologies
