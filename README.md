@@ -20,19 +20,6 @@ Let's go step by step,
 - The Security Personnel of the establishment will be provided with an Android Smartphone with our [Android Application](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/application) installed in it.
 - Now, whenever any vehicle enters the establishment the security personnel scans the vehicle's number plate using the App and if the Vehicle belongs to any of the Redsidents it will show the message "VEHICLE REGISTERED" else it will show "VEHICLE NOT REGISTERED", and thus they can take actions accordingly.
 
-### Technology Stack
-
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/xampp.png" height="50" width="50"></a>
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/firebase_ml_kit.png" height="50" width="50"></a>
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/php.png" height="50" width="50"></a>
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/css.jpg" height="60" width="60"></a>
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/html.png" height="60" width="60"></a>
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/javascript.png" height="60" width="60"></a>
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/androidstudio.png" height="50" width="50"></a>
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/google_tesseract_ocr.png" height="70" width="80"></a>
-
-
-
 ### How to Start ?
 <a href="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/LICENSE"><img src="https://img.shields.io/badge/License-MIT-orange"></a>
 #### Installing and Configuring XAMPP
@@ -66,6 +53,19 @@ Let's go step by step,
 #### Setting up the Android Application
 > Now, setup the [Android Application](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/application) to get the project up and running.
 
+### Technology Stack
+<hr>
+
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/xampp.png" height="50" width="50"></a>
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/firebase_ml_kit.png" height="50" width="50"></a>
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/php.png" height="50" width="50"></a>
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/css.jpg" height="60" width="60"></a>
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/html.png" height="60" width="60"></a>
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/javascript.png" height="60" width="60"></a>
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/androidstudio.png" height="50" width="50"></a>
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/google_tesseract_ocr.png" height="70" width="80"></a>
+
+<hr>
 
 ### Contributers
 - [Shubhadeep Mandal](https://github.com/shubhadeepmandal394)
