@@ -11,6 +11,8 @@ Demo: link to the website (The Website is for Demonstration Purpose Only)
 - Go to your Browser and type in http://localhost/index.html (make sure you have turned on Apache HTTP server and MySQL database from XAMPP Control Panel)
 - If you did everything correctly, the website should be up and running.
 
+**NOTE : Make sure your laptop and your android device is connected to the same network while operating on this project**
+
 ### Contributers
 - [Shubhadeep Mandal](https://github.com/shubhadeepmandal394)
 - [Sapnanil Das](https://github.com/sapnanil7)
