@@ -55,7 +55,8 @@ Let's go step by step,
   <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_3.png" width="500" height="250"></a>
   
 - Now, create a table name **users** and with 6 columns for storing **Seriel Number**(id), **First Name**(fname), **Last Name**(lname), **E-Mail**(mail), **Phone Number**(phone) and lastly **Vehicle Licence Plate Number**(code). &nbsp;
-**WARNING : Mark the column names very carefully**.
+
+  **WARNING : Mark the column names very carefully**.
 
   <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_4.png" width="500" height="250"></a>
   
