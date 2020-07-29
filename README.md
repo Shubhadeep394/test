@@ -25,7 +25,9 @@ Let's go step by step,
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/xampp.png" height="50" width="50"></a>
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/firebase_ml_kit.png" height="50" width="50"></a>
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/php.png" height="50" width="50"></a>
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/html_javascript_css.jpg" height="80" width="100"></a>
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/css.jpg" height="60" width="60"></a>
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/html.png" height="60" width="60"></a>
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/javascript.png" height="60" width="60"></a>
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/androidstudio.png" height="50" width="50"></a>
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/google_tesseract_ocr.png" height="70" width="80"></a>
 
