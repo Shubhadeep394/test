@@ -22,7 +22,8 @@ Let's go step by step,
 
 ### Technology Stack
 
-insert images here
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/xampp.png" height="30" width="30"></a>
+
 
 
 ### How to Start ?
