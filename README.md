@@ -57,12 +57,12 @@ Let's go step by step,
 
  &nbsp; &nbsp; &nbsp; 
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/xampp.png" height="60" width="60"></a> &nbsp; &nbsp; &nbsp; 
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/firebase_ml_kit.png" height="60" width="65"></a> &nbsp; &nbsp; &nbsp; 
-<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/php.png" height="70" width="80"></a> &nbsp; &nbsp; &nbsp; 
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/css.png" height="60" width="60"></a> &nbsp; &nbsp; &nbsp; 
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/html.png" height="60" width="60"></a> &nbsp; &nbsp; &nbsp; 
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/javascript.png" height="60" width="60"></a> &nbsp; &nbsp; &nbsp; 
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/androidstudio.png" height="65" width="70"></a> &nbsp; &nbsp; &nbsp; 
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/php.png" height="70" width="80"></a> &nbsp; &nbsp; &nbsp; 
+<a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/firebase_ml_kit.png" height="60" width="65"></a> &nbsp; &nbsp; &nbsp; 
 <a><img src="https://github.com/shubhadeepmandal394/test/blob/master/assets/img/google_tesseract_ocr.png" height="70" width="100"></a>
 
 
