@@ -9,6 +9,7 @@ Demo: link to the website (The Website is for Demonstration Purpose Only)
 - After doing so, go to **vehicle-authentication-technology** -> **website** and copy all the content inside the **website** folder (Make sure you have [XAMPP](https://pureinfotech.com/install-xampp-windows-10/) Installed in your device's C drive).
 - Now, go to **C drive** -> **xampp** -> **htdocs** and paste all the contents here (make sure the **htdocs** folder is empty before pasting).
 - Go to your Browser and type in http://localhost/index.html (make sure you have turned on Apache HTTP server and MySQL database from XAMPP Control Panel)
+- If you did everything correctly, the website should be up and running.
 
 ### Contributers
 - [Shubhadeep Mandal](https://github.com/shubhadeepmandal394)
