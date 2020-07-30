@@ -5,7 +5,7 @@
 Many residential society administrations, tolls, business complexes and parking spaces in India lack an computerized system for car parking and vehicle monitoring.Most of the commercial and residential places face an impending problem of illegal car/vehicle parking inside their premises. This issue is not bounded to just parking, but also adds to the
 security concerns inside those establishments.
 
-This Technology helps the Security Personnel of any residential societies, business complex, parking spaces, or any real estate buildings in the detection, identification, and monitoring of vehicles entering/leaving the premises by using image processing of the licence plate pumbers of the vehicles using out Android Application(VNP Scanner - Vehicle Number Plate Scanner) and matching the same with the database.
+This Technology helps the Security Personnel of any residential societies, business complex, parking spaces, or any real estate buildings in the detection, identification, and monitoring of vehicles entering/leaving the premises by using image processing of the licence plate numbers of the vehicles using our Android Application(VNP Scanner) and matching the same with the database.
 
 ### How does it work ?
 
@@ -15,9 +15,9 @@ In this Technology, we the developers [Shubhadeep Mandal](https://github.com/shu
 
 Let's go step by step,
 
-- The residents of the residential society are provided with a [Website](<give the link to the website here>) where they are to register themselves along with their Vehicle Details (if they own any).
+- The residents of the residential society are provided with a website where they are to register themselves along with their Vehicle Details (if they own any).
 - After registration the same will data will be uploaded to our database.
-- The Security Personnel of the establishment will be provided with an Android Smartphone with our [Android Application](https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/application) installed in it.
+- The Security Personnel of the establishment will be provided with an android smartphone with our android application installed in it.
 - Now, whenever any vehicle enters the establishment the security personnel scans the vehicle's number plate using the App and if the Vehicle belongs to any of the Redsidents it will show the message "VEHICLE REGISTERED" else it will show "VEHICLE NOT REGISTERED", and thus they can take actions accordingly.
 
 ### Technology Stack
@@ -41,7 +41,8 @@ Let's go step by step,
 
 
 - Install and configure [XAMPP](https://pureinfotech.com/install-xampp-windows-10/) on Windows 10.
-  NOTE : *In this project we will be using Apache HTTP server and MySQL database configured using XAMPP on our localhost*
+
+  **NOTE :** *In this project we will be using Apache HTTP server and MySQL database configured using XAMPP on our localhost*
   
   <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_1.jpg" width="500" height="250"></a>
   
@@ -56,7 +57,7 @@ Let's go step by step,
   
 - Now, create a table name **users** and with 6 columns for storing **Seriel Number**(id), **First Name**(fname), **Last Name**(lname), **E-Mail**(mail), **Phone Number**(phone) and lastly **Vehicle Licence Plate Number**(code). &nbsp;
 
-  **WARNING : Mark the column names very carefully**.
+  **WARNING :** *Mark the column names very carefully.*
 
   <a><img src="https://github.com/shubhadeepmandal394/vehicle-authentication-technology/blob/master/assets/img/xampp_screenshot_4.png" width="500" height="250"></a>
   
