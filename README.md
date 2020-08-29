@@ -35,8 +35,8 @@ pip install datetime
 - Now, type `python automeet.py` and press enter.
 
 ### References
-> [https://pypi.org/project/PyAutoGUI/](https://pypi.org/project/PyAutoGUI/)
-> [https://pyautogui.readthedocs.io/en/latest/](https://pyautogui.readthedocs.io/en/latest/)
-> [https://pyautogui.readthedocs.io/en/latest/keyboard.html#keyboard-keys](https://pyautogui.readthedocs.io/en/latest/keyboard.html#keyboard-keys)
+> https://pypi.org/project/PyAutoGUI/
+> https://pyautogui.readthedocs.io/en/latest/
+> https://pyautogui.readthedocs.io/en/latest/keyboard.html#keyboard-keys
 
 Loved the work ? [Support Me](https://paypal.me/shubhadeepmandal394?locale.x=en_GB) for my next project 😇
