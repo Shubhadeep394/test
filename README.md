@@ -10,14 +10,11 @@ An Automation script to automatically join a scheduled google-meet meeting at a 
 2. Python pyautogui, webbrowser, time, datetime packages
 ```python
 pip install pyautogui
-```
-```python
+
 pip install webbrowser
-```
-```python
+
 pip install time
-```
-```python
+
 pip install datetime
 ```
 3. Any Web Browser (preferably Google Chrome)
