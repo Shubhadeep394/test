@@ -1,29 +1,40 @@
 # **Google Meet Automation**
 An Automation script to automatically join a scheduled google-meet meeting at a specific time without manual labour. This one's for all the lazy people like me who don't like waking up early morning for online classes.
 
-## Requirements 
-- [x] Installed python version above 3.5
-- [x] Installed pyautogui package
-- [x] Installed schedule package
-- [x] Updated Zoom Software (Signed in)
 
-#### To install the above packages :
-+ To [Download Python](https://www.python.org/downloads/)
-+ `pip install pyautogui`
-+ `pip install schedule`
-+ To [Download Zoom Software](https://zoom.us/download#client_4meeting)
 
-##### How to run the program ?
- Clone this repository and unzip it
-* Open the run.bat and set the paths
-  * First Path - "Path to where python is located"
-  * Second Path - "Path to where the main.py is located"
-* Make sure the `joinING.png` is located in the same folder as `main.py` and `run.bat`
-* Run the `run.bat` to run the batch file
-  * Alternatively you can also run the `main.py` for the same result but `run.bat` is preferred
-* *Finally after the cmd is opened read the instructions thoroughly and proceed by entering your zoom meeting info*
-* *Make sure you enter the "Meeting ID and Meeting Password" correctly or else the program would crash*
-* Format for the Recurring Meeting Time should be in 24 Hour format
-  * Eg: `09:30` for 9:30am and `15:30` for 3:30pm 
-* Total Meeting time is entered in `minutes` format
-  *Eg: `20` for 20mins
+#### Requirements
+1. Python 3.5 and above
+> To install Python ([click here](https://www.python.org/downloads/))
+2. python pyautogui, webbrowser, time, datetime packages
+```python
+pip install pyautogui
+```
+```python
+pip install webbrowser
+```
+```python
+pip install time
+```
+```python
+pip install datetime
+```
+3. Any Web Browser (preferably Google Chrome)
+
+
+#### Install Packages
+- To [Download Python](https://www.python.org/downloads/)
+- `pip install pyautogui`
+- `pip install schedule`
+- To [Download Zoom Software](https://zoom.us/download#client_4meeting)
+
+#### How to run the program ?
+- At first, clone the repository.
+- Now locate *automeet.py* and open it using any text editors like Sublime Text / Brackets / Notepad ++ or IDEs like PyCharm (here I have used PyCharm).
+- You need to make 3 major changes in order to personalise the script, the changes are as follows ..
+- Go to line 10 `if now.strftime("%H%M") == "time":` and replace *time* with your Meeting Start Time.
+- Go to line no 12 `webbrowser.get("path").open_new("link")` and replace *path* with the Google Chrome Browser's path in your pc and *link* with your Google-Meet Meeting Link.
+- If you are using IDEs like PyCharm then run the program there itself, else follow the following steps.
+- After doing so, open up command prompt in the same folder 
+	HELP : go to the address bar and type in **cmd***(lowercase)* and press enter, command prompt oppens up in the same folder
+- Now, type `python automeet.py` and press enter.
