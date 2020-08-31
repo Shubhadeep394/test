@@ -11,12 +11,13 @@
 </p>
 
 Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Developer, an Ethical Hacker and a Cyber Security Enthusiast.
+- :man_student: I’m currently pursuing my undergrad in Electronics and Communication Engineering from B.P. Poddar Institute of Management and Technology,Kolkata. Hopefully, I'll get my degree by 2022.
 - 🔭 I’m currently working on Bug Hunting Project of Internshala's Ethical Hacking Online Training.
 - 🌱 I’m currently learning Cybersecurity Roles, Processes & Operating System Security from Coursera.
-- :man_student: Currently, I am pursuing my undergrad in Electronics and Communication Engineering from B.P. Poddar Institute of Management andfTechnology,Kolkata. Hopefully, I'll get my degree by 2022.
+
 <hr>
 
-<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&hide_border=true" width="100" />
+<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&hide_border=true" height="245" width="625" />
 
 <hr>
 <p align ="center">
