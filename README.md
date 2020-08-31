@@ -7,6 +7,7 @@
 <br>
     <a href="https://github.com/shubhadeepmandal394"><img src="https://img.shields.io/badge/Welcome-😃-ff69b4"></a> &nbsp; 
     <a href="https://www.linkedin.com/in/shubhadeepmandal394/"><img src="https://img.shields.io/badge/Shubhadeep Mandal-LinkedIn-blue"></a>
+    ![counter](https://enazpy7xf6356dh.m.pipedream.net)
 <br>
 </p>
 
