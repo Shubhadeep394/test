@@ -17,7 +17,7 @@ Hi there! I am Shubhadeep Mandal, I am an Android Application Developer, Web Dev
 
 <hr>
 
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&hide_border=true" height="245" width="625" />
+<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shubhadeepmandal394&show_icons=true&hide_border=true" height="245" width="1042" />
 
 <hr>
 <p align ="center">
